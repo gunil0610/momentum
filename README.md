@@ -7,3 +7,7 @@
 - html
 - css
 - vanilla javascript
+
+## 둘러보기
+
+- gh-pages 를 사용하여 배포하였습니다: [링크](https://gunil0610.github.io/momentum/)
