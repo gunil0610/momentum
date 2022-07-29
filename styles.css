@@ -101,6 +101,7 @@ button {
   height: 100%;
   z-index: -3;
   animation: fadeIn 0.5s linear;
+  object-fit: cover;
 }
 
 @media screen and (max-width: 600px) {
